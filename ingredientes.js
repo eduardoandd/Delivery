@@ -24,7 +24,7 @@ var ingredientes = [
         valor:1.50
     },
     {
-        nome:'maionese',
+        nome:'maionese de bacon',
         quantidade:null,
         quantidadeGramas:5,
         valor:0.50
